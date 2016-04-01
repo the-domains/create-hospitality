@@ -1,0 +1,28 @@
+name: Create Hospitality
+favicon: null
+layout_spectrum: 0.4535097370389849
+typography_spectrum: 0.7419327029492706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08842053893022239
+  lightness: 0.22604131721891463
+  saturation: 0.31714735040441155
+  rhythmicContrast: 0.07244598935358226
+purpose: []
