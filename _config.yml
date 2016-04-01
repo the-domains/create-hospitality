@@ -1,7 +1,7 @@
 name: Create Hospitality
 favicon: null
-layout_spectrum: 0.4535097370389849
-typography_spectrum: 0.7419327029492706
+layout_spectrum: 0.25337
+typography_spectrum: 0.56193
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#878787'
+    - '#3c3c3c'
+    - '#696969'
+    - '#cacaca'
   brandStrength: 0.08842053893022239
   lightness: 0.22604131721891463
   saturation: 0.31714735040441155
