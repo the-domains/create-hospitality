@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Create Hospitality]]></title>
-        <description><![CDATA[Create Hospitality]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[F&B holding company in Dubai]]></title>
+        <description><![CDATA[F&B holding company in Dubai]]></description>
+        <link>https://thegrid.ai/create-hospitality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 09:09:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 08:06:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/create-hospitality/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Create Hospitality]]></title>
-            <description><![CDATA[<article><h1>Create Hospitality</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c8f9db0-34c3-4f2b-b0f8-8145dbb27bee.png"></article>]]></description>
-            <link>undefinedcreate-hospitality/index.html</link>
+            <title><![CDATA[Our Brands]]></title>
+            <description><![CDATA[<article><h1>Our Brands</h1><p>About Us</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c8f9db0-34c3-4f2b-b0f8-8145dbb27bee.png"></article>]]></description>
+            <link>https://thegrid.ai/create-hospitality/create-hospitality/index.html</link>
             <guid isPermaLink="false">819bac6e-e710-4e33-8320-cd444d144006</guid>
-            <pubDate>Fri, 01 Apr 2016 09:08:41 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 08:06:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
